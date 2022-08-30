@@ -1,0 +1,33 @@
+p {
+    color: blue
+
+}
+
+h1{
+    color: red !important
+}
+
+
+#titulo {
+    color:brown;
+    background-color: chartreuse;
+    font-size: large;
+    
+}
+
+h1{
+
+    color: green;
+}
+
+nav a{
+
+    font-size: large;
+    color: blueviolet;
+    background-color: aqua;
+}
+
+header{
+
+    background-color: blue;
+}

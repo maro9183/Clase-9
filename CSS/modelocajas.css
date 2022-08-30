@@ -1,0 +1,54 @@
+*{
+    width: 99%;
+}
+
+header{
+    background-color: pink;
+    color: white;
+    
+height: 150px;
+
+}
+
+nav{
+background-color: brown;
+
+height: 150px;
+
+}
+
+main{
+background-color: blue;
+
+height: 150px;
+
+}
+
+
+
+
+article{
+
+    background-color: orange;
+    height: 100px;
+}
+
+section{
+
+    background-color: green;
+    
+    height: 300px;
+}
+
+
+footer{
+    background-color: gray;
+    
+    height: 160px;
+
+}
+
+p{
+background-color: black;
+
+}
